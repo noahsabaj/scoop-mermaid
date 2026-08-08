@@ -1,12 +1,12 @@
 {
-    "version": "0.20.0",
+    "version": "0.21.0",
     "description": "Open-source, model-agnostic AI pair programmer for the terminal.",
     "homepage": "https://github.com/noahsabaj/mermaid-cli",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/noahsabaj/mermaid-cli/releases/download/v0.20.0/mermaid-windows-x86_64.zip",
-            "hash": "77f24d17e150e98dbff2cef0b318fd756872756c118ba08e914ab25d08be2e07"
+            "url": "https://github.com/noahsabaj/mermaid-cli/releases/download/v0.21.0/mermaid-windows-x86_64.zip",
+            "hash": "19a277c83ee85a1244231fa500209f0c94fc165e904d0d7e06fb24de8f5dd6e3"
         }
     },
     "bin": [
